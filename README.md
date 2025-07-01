@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkhilMineesh
 - 👀 I’m interested in Gaming Codes 
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python, C++ and Java.
 - ⚡ Fun fact: I am a very avid gamer
 - 😁 Excited to start using GitHub!
 
